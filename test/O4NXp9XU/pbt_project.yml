@@ -1,0 +1,50 @@
+name: claudie.corkery
+description: Open-architected
+version: 5.4.5.171
+author: jm6gp5j1.ld9reqsv@3fuccu5o.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: claudiecorkery
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:36:40'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:36:40'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:36:40.308472Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1452843844'
+  createdAt: '2025-12-05T22:36:40.308472Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
